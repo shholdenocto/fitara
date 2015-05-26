@@ -85,15 +85,15 @@ FITARA was enacted on December 19, 2014. FITARA outlines specific requirements r
 6. Maximizing the Benefit of the Federal Strategic Sourcing Initiative
 7. Government-wide Software Purchasing Program
 
-To implement the requirements of FITARA, combined with the need to update policy and guidance related to other modern IT practices, OMB is establishing this guidance. This guidance reflects input from a diverse group of stakeholders, including representatives from the Chief Financial Officer (CFO), Chief Human Capital Officer (CHCO), Chief Acquisition Officer (CAO), Assistant Secretary for Management (ASAM), Chief Operating Officer (COO), and CIO communities.
+To implement the requirements of FITARA, combined with the need to update policy and guidance related to other modern IT practices, OMB is publishing this guidance. This guidance reflects input from a diverse group of stakeholders, including representatives from the Chief Financial Officer (CFO), Chief Human Capital Officer (CHCO), Chief Acquisition Officer (CAO), Assistant Secretary for Management (ASAM), Chief Operating Officer (COO), and CIO communities.
 
 ### Objectives
 
 The objectives of the requirements outlined in this proposed guidance are to:
 
-1. Assist agencies in establishing management practices which align IT resources with agency missions, goals, programmatic priorities, and statutory requirements;
+1. Assist agencies in establishing management practices that align IT resources with agency missions, goals, programmatic priorities, and statutory requirements;
 2. Establish government-wide IT management controls that will meet FITARA requirements while providing agencies with the flexibility to adapt to agency processes and unique mission requirements;
-3. Establish the “Common Baseline” for roles, responsibilities, and authorities of the agency CIO and the roles and responsibilities of other applicable Senior Agency Officials[^2] in managing IT as a strategic resource;
+3. Establish a “Common Baseline” for roles, responsibilities, and authorities of the agency CIO and the roles and responsibilities of other applicable Senior Agency Officials[^2] in managing IT as a strategic resource;
 4. Clarify the agency CIO’s role with respect to program IT, mission IT, and other cases of IT resources included in organizations that are not primarily IT-oriented;
 5. Strengthen the agency CIO’s accountability for the agency’s IT cost, schedule, and performance;
 6. Strengthen the relationship between agency CIOs and bureau CIOs;
@@ -109,7 +109,7 @@ The objectives of the requirements outlined in this proposed guidance are to:
 3. Covered agencies shall implement this guidance in a manner consistent with other legal authorities and should consult with their counsel regarding those authorities.
 4. With respect to Offices of Inspectors General (OIG), this guidance should be implemented in a manner that does not impact the independence of those offices and the authorities Inspectors General have over the personnel, performance, procurement, and budget of the OIG, as provided in the IG Act of 1978, 5 U.S.C. app 3.
 5. This proposed guidance builds upon and will refer to existing OMB policy and guidance.
-6. Where appropriate, this guidance incorporates agency reporting requirements introduced by FITARA into existing OMB processes, such as PortfolioStat, the Integrated Data Collection (IDC),[^4] Acquisition Human Capital Planning, and the Federal IT Dashboard (ITDB), rather than creating new reporting channels and tools.
+6. Where possible, this guidance incorporates agency reporting requirements introduced by FITARA into existing OMB processes, such as PortfolioStat, the Integrated Data Collection (IDC),[^4] Acquisition Human Capital Planning, and the Federal IT Dashboard (ITDB), rather than creating new reporting channels and tools.
 
 
 ### Section A: Defining the Scope of Resources Related to Information Technology
@@ -120,21 +120,21 @@ Many of the requirements of this proposed guidance refer to the agency CIO’s i
 
 A. agency budgetary resources, personnel, equipment, facilities, or services that are primarily used in the management, operation, acquisition, or other activity related to the lifecycle of information technology;
 
-B. acquisitions or interagency agreements which include information technology and the services or equipment provided by such acquisitions or interagency agreements;
+B. acquisitions or interagency agreements that include information technology and the services or equipment provided by such acquisitions or interagency agreements; but
 
-C. but does not include grants which establish or support information technology not operated directly by the Federal Government.
+C. does not include grants which establish or support information technology not operated directly by the Federal Government.
 
-This definition and this proposed guidance refer to the term “information technology,” which for the purposes of this definition and proposed guidance is defined as:
+This definition and this proposed guidance refer to the term “information technology,” which for the purposes of this proposed guidance is defined as:
 
 "**Information technology**" includes all:
 
 A. Any services or equipment, or interconnected system(s) or subsystem(s) of equipment, that are used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency.
 
-B. For purposes of this definition, such services or equipment are used by an agency if used by the agency directly or if used by a contractor under a contract with the agency that requires either use of the services or equipment or requires use of the services or equipment to a significant extent in the performance of a service or the furnishing of a product.
+B. Services or equipment that are used by an agency if used by the agency directly or if used by a contractor under a contract with the agency that requires either use of the services or equipment or requires use of the services or equipment to a significant extent in the performance of a service or the furnishing of a product.
 
 C. The term “information technology” includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including provisioned services such as cloud computing and support services that support any point of the lifecycle of the equipment or service), and related resources.
 
-D. The term “information technology” does not include any equipment that is acquired by a contractor incidental to a contract which does not require its use (“b.” immediately above explains generally when equipment or services are used by an agency through a contractor’s use).
+D. The term “information technology” does not include any equipment that is acquired by a contractor incidental to a contract that does not require its use (“b.” immediately above explains generally when equipment or services are used by an agency through a contractor’s use).
 
 This definition is based on the definition of information technology found in the Clinger-Cohen Act of 1996.[^5] Additional definitions used in the Common Baseline are available in _Attachment A_.
 
@@ -147,9 +147,9 @@ To establish consistency across IT management and acquisition policies, OMB Circ
 
 ### Section B: Implementation of the Common Baseline
 
-1. The “Common Baseline” (_Attachment A_) provides guidance on the CIO’s and other Senior Agency Officials’ roles and responsibilities for the management of IT. This Common Baseline provides a framework for agencies to implement the specific authorities that FITARA provides for CFO Act agency CIOs, which build upon their responsibilities as outlined in the Clinger-Cohen Act of 1996.[^6] The Common Baseline also speaks to the roles and responsibilities of other Senior Agency Officials, as it is critical that these officials in each covered agency are engaged in the oversight of IT investments.
+1. The “Common Baseline” (_Attachment A_) provides guidance on the CIO’s and other Senior Agency Officials’ roles and responsibilities for the management of IT. This Common Baseline provides a framework for agencies to implement the specific authorities that FITARA provides for CFO Act agency CIOs, and which builds upon their responsibilities as outlined in the Clinger-Cohen Act of 1996.[^6] The Common Baseline also speaks to the roles and responsibilities of other Senior Agency Officials, as it is critical that these officials in each covered agency are engaged in the oversight of IT investments.
 
-2. All covered agencies shall institute procedures that implement the roles, responsibilities, and requirements found in the Common Baseline. The Common Baseline provides agencies with certain flexibility to adopt procedures that meet these requirements in a manner tailored to the volume and type of work completed by the agencies. As explained further in _Attachment A_, agencies may adopt a plan that provides for the CIO’s direct involvement or a framework approved by the CIO that contains clear rules on the procedures by which decisions are made and articulates that the CIO remains responsible and accountable for those decisions (referred to as the “CIO Assignment Plan” in _Attachment A_). Further detail is provided in the “CIO Assignment Plan” section found in _Attachment A_.
+2. All covered agencies shall institute policies and procedures that implement the roles, responsibilities, and requirements found in the Common Baseline. The Common Baseline provides agencies with certain flexibility to adopt procedures that meet these requirements in a manner tailored to the volume and type of work completed by the agencies. As explained further in _Attachment A_, agencies may adopt a plan that provides for the CIO’s direct involvement or a framework approved by the CIO that contains clear rules on the procedures by which decisions are made and articulates that the CIO remains responsible and accountable for those decisions (referred to as the “CIO Assignment Plan” in _Attachment A_). Further detail is provided in the “CIO Assignment Plan” section found in _Attachment A_.
 
 3. Each agency shall take the following actions to implement the Common Baseline:
 
@@ -157,7 +157,7 @@ To establish consistency across IT management and acquisition policies, OMB Circ
 
   -- **Submit to OMB for acceptance of plan.** Covered agencies shall no later than August 15, 2015 submit this self-assessment and this plan to OMB’s Office of E-Government & Information Technology (E-Gov) as well as to the agency’s relevant OMB Resource Management Office for review and acceptance. Please submit these by email to egov@omb.eop.gov with the subject line: “[Agency Abbreviation] FITARA Common Baseline Plan.” OMB may request additional information from agencies before accepting the plan. Agencies shall post the “plan” portion of this document (posting the “self-assessment” is optional) on their public website at agency.gov/digitalstrategy no more than 30 days following OMB acceptance and thereafter keep the public document up to date with access to a history of previous versions.
 
-  -- **Support ongoing oversight of plan and Common Baseline.** Covered agencies shall follow OMB guidance from PortfolioStat sessions and other oversight activities regarding the ongoing implementation of the Common Baseline. Agencies shall notify OMB of any obstacles or incomplete implementation of the Common Baseline on an ongoing basis following the initial implementation deadline. OMB may request agencies to revise or update agency self-assessments or plans during implementation as more information becomes available about the agency's management processes.
+  -- **Support ongoing oversight of plan and Common Baseline.** Covered agencies shall follow OMB guidance from PortfolioStat sessions and other oversight activities regarding the ongoing implementation of the Common Baseline. Agencies shall notify OMB of any obstacles or incomplete implementation of the Common Baseline on an ongoing basis following the initial implementation deadline. OMB may request agencies to revise or update agency self-assessments or plans during implementation as more information becomes available about the agency's management processes implementing FITARA and this guidance.
 
   -- **Conduct annual review and update to self-assessment.** In accordance with OMB guidance, covered agencies shall update the self-assessment annually to identify any obstacles or incomplete implementation of Common Baseline responsibilities over the preceding 12 months. The first update will be due April 30, 2016, and each April 30 on an annual basis thereafter.
 
@@ -165,7 +165,7 @@ To establish consistency across IT management and acquisition policies, OMB Circ
 
   -- **Federal CIO Council (the Council) shall develop and share on-going support and tools.** Through the end of FY2016, the Council will dedicate time in its meetings to discuss current topics related to the implementation of the Common Baseline at least once every quarter. The Council will also assist agencies in implementing the Common Baseline by sharing examples of agency governance processes and IT policies on a public website at https://management.cio.gov.
 
-  -- **Support President’s Management Council (PMC) follow-up**. By June 30, 2015 the PMC will select three members from the Council to provide an update on government-wide implementation of FITARA on a quarterly basis through the end of FY2016. These updates will improve each agency’s awareness of policies and processes which have worked well at other agencies.
+  -- **Support President’s Management Council (PMC) follow-up**. By June 30, 2015, the PMC will select three members from the Council to provide an update on government-wide implementation of FITARA on a quarterly basis through the end of fiscal year (FY) 2016. These updates will improve each agency’s awareness of policies and processes which have worked well at other agencies.
 
 ### Section C: Transparency, Risk Management, Portfolio Review, and Reporting
 
@@ -183,7 +183,7 @@ To establish consistency across IT management and acquisition policies, OMB Circ
 
   -- **TechStat Sessions.** A TechStat is a face-to-face, evidence-based accountability review of an IT program with agency leadership.[^9]  TechStat sessions are a tool for getting ahead of critical problems in an investment, turning around underperforming investments, or terminating investments if appropriate. For all agency-led TechStat reviews of investments, the agency shall contact egov@omb.eop.gov with the subject line, “[Agency Acronym] TechStat Notification,” at least two weeks ahead of the TechStat session. Agencies shall follow the agency’s TechStat policy and procedures based on the CIO.gov TechStat Toolkit when managing TechStat sessions. Agencies shall report the outcomes and outputs of all TechStat sessions through the quarterly IDC, including: the assessment described in _Attachment E: Investment and Portfolio Management Maturity Framework_, a root cause analysis of performance issues, corrective action plans which address these causes, and a timeline for implementing the corrective actions. More detailed reporting guidance will be provided in the quarterly IDC instructions.
 
-  -- **High risk rating.** Given the size and complexity of the multi-billion dollar Federal IT Portfolio, it is critical to maintain a focus on the health of IT investments across the government. As required by CPIC guidance, the CIO evaluations reported to the ITDB for all major IT investments must reflect the CIO’s assessment of the current level of risk for the investment’s ability to accomplish its goals based on factors described in the CPIC guidance.
+  -- **High risk rating.** Given the size and complexity of the multi-billion dollar Federal IT Portfolio, it is critical to maintain a focus on the health of IT investments across the government. As required by CPIC guidance, the CIO evaluations reported to the ITDB for all major IT investments must reflect the CIO’s assessment of the current level of risk for any major investment’s ability to accomplish its goals based on factors described in the CPIC guidance.
 
   -- **Automatic TechStats.** Moreover, if an investment has a high risk rating (red CIO evaluation in the ITDB) for three consecutive months beginning June 1, 2015, agencies must hold a TechStat session on that investment. The session must be held within 30 days of the completion of the third month. If this investment remains categorized with a red CIO evaluation one year following the TechStat session then OMB may take appropriate performance and/or budgetary actions until the agency has addressed the root cause and ensured the investment’s ability to complete the remaining activities within planned cost and schedule.
 
